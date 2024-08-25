@@ -1,7 +1,7 @@
 /* You can either copy the below and paste it between style tags on your HTML page, OR you can copy this to a file and name it .css and link it from your HTML page. */
 
 :root {
-  --font-family:"Verdana", sans-serif;
+  --font-family:"Verdana", Cour.ttf;
   --font-size:x-small;
   --sidebar-border:1px solid #E6E6C3;
   --link-color:blue;
